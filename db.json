@@ -3,13 +3,13 @@
     {
       "id": 1,
       "name": "Mr. Bonkers",
-      "isGoodDog": true,
+      "isGoodDog": false,
       "image": "https://weloveanimals.me/wp-content/uploads/2017/10/gettyimages-590486672-e1508512743796.jpg"
     },
     {
       "id": 2,
       "name": "Nugget",
-      "isGoodDog": false,
+      "isGoodDog": true,
       "image": "https://www.guidedogs.org/wp-content/uploads/2018/01/Mobile.jpg"
     },
     {
@@ -21,7 +21,7 @@
     {
       "id": 4,
       "name": "Buttercup",
-      "isGoodDog": false,
+      "isGoodDog": true,
       "image": "https://www.petinsurance.com/images/VSSimages/consumer/v5/banner_dog_insurance.jpg"
     },
     {
